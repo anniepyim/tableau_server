@@ -6,6 +6,8 @@ This repository contains references that helps with studying the Tableau Server 
 
 [Tableau Server Help v2020.1](https://help.tableau.com/v2020.1/offline/en-us/tableau_server_windows.pdf)
 
+[Tableau Architecture](https://data-flair.training/blogs/tableau-architecture/)
+
 [Self-study Guide](https://docs.google.com/spreadsheets/d/1BQY1Ht5F-upVttWQ0W-IRrwwwZgPIAmulzP4qw4x-_I/edit?usp=sharing)
 
 [Study Guide](https://toddschnack.files.wordpress.com/2015/10/tableau-server-study-guide.pdf)
